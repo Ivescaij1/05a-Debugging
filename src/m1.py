@@ -2,8 +2,8 @@
 This module lets you practice DEBUGGING when RUN-TIME EXCEPTIONS occur.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Junfei Cai.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 
@@ -79,6 +79,7 @@ import rosegraphics as rg
 #   change the above TO DO to DONE.
 #
 ########################################################################
+
 
 def main():
     """ Calls the   TEST   functions in this module. """
